@@ -1,0 +1,9 @@
+chromadb
+numpy
+langchain-core
+langchain-text-splitters
+pypdf
+python-dotenv
+sentence-transformers
+langchain-groq
+pytest
